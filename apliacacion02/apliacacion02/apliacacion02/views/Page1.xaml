@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="apliacacion02.views.Page1">
+    <ContentPage.Content>
+
+
+        <!--Grid Margin="15">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+        </Grid-->
+        
+        <Grid Margin="15">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                
+                <Label Grid.Row="0"
+	                   Grid.Column="0"
+	                   Margin="5"
+	                   Text="Monto en Pesos"
+	                   TextColor="Blue"
+	                   VerticalOptions="Center" />
+
+
+                <Entry Grid.Row="0"
+	                   Grid.Column="1"
+	                   Margin="5"
+	                   x:Name="PesosEntry"
+	                   Placeholder="0.00"
+	                   WidthRequest="100"
+	                   HorizontalOptions="Start"
+                       Keyboard="Numeric"/>
+                
+                <Button Grid.Row="1"
+	                    Grid.Column="0"
+	                    Margin="5"
+	                    x:Name="ConversorButton"
+	                    Text="Convertir"
+	                    TextColor="White"
+	                    BackgroundColor="DarkGreen"
+	                    WidthRequest="150"
+	                    HorizontalOptions="Center"
+	                    CornerRadius="10"
+	                    Clicked="ConversorButton_Clicked" />
+                
+                <Button Grid.Row="1"
+	                    Grid.Column="1"
+	                    Margin="5"
+	                    x:Name="LimpiarButton"
+	                    Text="Limpar"
+	                    TextColor="White"
+	                    BackgroundColor="DarkGreen"
+	                    WidthRequest="150"
+	                    HorizontalOptions="Center"
+	                    CornerRadius="10"
+	                    Clicked="LimpiarButton_Clicked" />
+                
+                <Label Grid.Row="2"
+	                   Grid.Column="0"
+	                   Margin="5"
+	                   FontAttributes="Bold"
+	                   Text="Monto en Dólares"
+	                   TextColor="Blue" />
+                
+                <Label Grid.Row="2"
+	                   Grid.Column="1"
+	                   Margin="5"
+	                   FontAttributes="Bold"
+	                   x:Name="DolaresLabel"
+	                   TextColor="Green" />
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>

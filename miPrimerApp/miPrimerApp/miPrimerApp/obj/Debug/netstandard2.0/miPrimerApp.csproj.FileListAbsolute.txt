@@ -1,0 +1,15 @@
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\bin\Debug\netstandard2.0\miPrimerApp.deps.json
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\bin\Debug\netstandard2.0\miPrimerApp.dll
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\bin\Debug\netstandard2.0\ref\miPrimerApp.dll
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\bin\Debug\netstandard2.0\miPrimerApp.pdb
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\miPrimerApp.csproj.AssemblyReference.cache
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\miPrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\miPrimerApp.AssemblyInfoInputs.cache
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\miPrimerApp.AssemblyInfo.cs
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\miPrimerApp.csproj.CoreCompileInputs.cache
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\miPrimerApp.dll
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\ref\miPrimerApp.dll
+D:\ICIT-VI SEMESTRE\MOVILES II\PROYECTOS EN XAMARIN\miPrimerApp\miPrimerApp\miPrimerApp\obj\Debug\netstandard2.0\miPrimerApp.pdb

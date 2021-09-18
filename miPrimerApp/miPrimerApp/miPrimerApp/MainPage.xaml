@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="miPrimerApp.MainPage" BackgroundColor="#440404">
+
+    <StackLayout BackgroundColor="#E6CC51">
+        <Frame BackgroundColor="#6d0019" Padding="24" CornerRadius="0">
+            <Label Text="HOLA MI PRIMER APP" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="LUIS FERNANDO PACCO" HorizontalTextAlignment="Center" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Make changes to your XAML file and save to see your UI update, in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
+        <Button x:Name="btnATRAS" Text="Atras" CornerRadius="50" Clicked="BTNatras" />
+        <Button x:Name="btnENVIAR" Text="Enviar" CornerRadius="100" Clicked="BTEnviar" TextColor="#430321" TextTransform="Lowercase" BorderColor="#E11222" BackgroundColor="#13DAB7" FontAttributes="Bold,Italic" FontSize="Caption" InputTransparent="False"  />
+        <!--Button x:Name="btn2" Text="Varias Opciones" CornerRadius="100" Clicked="OnActionSheetSimpleClicked" /-->
+        <Button x:Name="btn2" Text="asdasd" CornerRadius="100" Clicked="OnActionSheetSimpleClicked" />
+        <Image Source="Resources/yope.jpg" />
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Learn more at " TextDecorations="Underline"/>
+                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>
